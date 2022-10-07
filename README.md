@@ -1,3 +1,3 @@
 ## Documentation playground
 
-sdk documentation [here](sdk.md.md)
+sdk documentation [here](sdk.md)
