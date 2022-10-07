@@ -3,9 +3,7 @@
 sdk documentation [here](sdk.md)
 
 Mermaid test
-
-***note***
-the text is not displayed properly
+(there should be a chart displayed under)
 
 ```mermaid
   graph TD;
@@ -14,4 +12,3 @@ the text is not displayed properly
       B-->D;
       C-->D;
 ```
-
